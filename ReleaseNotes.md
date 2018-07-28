@@ -1,6 +1,21 @@
-### New in 0.16.0 (Released 2017/07/25)
+### New in 0.18.0 (Released 2018/07/04)
 
-* Made portable
+* Bumped Cake.Core to 0.28.1
+* Add git clean command
+
+### New in 0.17.0 (Released 2018/03/01)
+
+* Bumped Cake.Core to 0.26.0
+
+### New in 0.16.1 (Released 2017/10/09)
+
+* Updated nuget icon and repo url
+* Add framework lib/net46 moniker
+* Fix warnings in build script
+
+### New in 0.16.0 (Released 2017/09/14)
+
+* Bumped Cake.Core to 0.22.0
 
 ### New in 0.15.0 (Released 2017/06/01)
 

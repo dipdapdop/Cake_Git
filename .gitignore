@@ -17,6 +17,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+.[Vv][Ss]/
 
 # Roslyn cache directories
 *.ide/
@@ -193,7 +194,7 @@ FakesAssemblies/
 
 # Repo tests
 [Tt]est[Rr]epo/
-
+*.ide
 #Cake Artifacts
 [Aa]rtifacts/
 
